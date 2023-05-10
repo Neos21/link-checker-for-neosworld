@@ -1,0 +1,25 @@
+{
+  "name": "link-checker-for-neosworld",
+  "description": "Link Checker For Neo's World",
+  "private": true,
+  "type": "module",
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/link-checker-for-neosworld#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/link-checker-for-neosworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/link-checker-for-neosworld/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
+  "dependencies": {
+    "jsdom": "22.0.0",
+    "sqlite": "4.2.0",
+    "sqlite3": "5.1.6"
+  }
+}
